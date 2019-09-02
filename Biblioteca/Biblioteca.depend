@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1567437553 source:d:\quiroz esteban marcelo\biblioteca\main.c
+	<stdio.h>
+	<stdlib.h>
+	"INPUTS.h"
+
+1567437379 d:\quiroz esteban marcelo\biblioteca\inputs.h
+
+1567436953 source:d:\quiroz esteban marcelo\biblioteca\inputs.c
+	"INPUTS.h"
+
