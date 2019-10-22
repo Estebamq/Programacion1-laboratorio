@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1571755406 source:d:\esteban quiroz\vectores dinamicos\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1571756644 source:d:\esteban quiroz\vectores dinamicos\persona.c
+	"persona.h"
+
+1571757069 d:\esteban quiroz\vectores dinamicos\persona.h
+	<stdio.h>
+	<stdlib.h>
+
